@@ -1,4 +1,6 @@
-### Hi there 👋
+My name is Arman Oganisian, currently a 5th year Biostatistics PhD candidate at the University of Pennsylvania. My research is focused on development nonparametric Bayesian methods with an emphasis on causal inference problems. I am also on the Stan Project's Governing Body for the 2021 term. 
+
+Here you will find repos containing software supporting published/working papers, software packages, and tutorial codes. See my web site for more on my research.
 
 <!--
 **stablemarkets/stablemarkets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
