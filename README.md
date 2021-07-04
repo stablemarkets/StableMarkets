@@ -1,4 +1,4 @@
-My name is Arman Oganisian, currently a 5th year Biostatistics PhD candidate at the University of Pennsylvania. My research is focused on developing nonparametric Bayesian methods with an emphasis on causal inference problems. I am also on the Stan Project's Governing Body for the 2021 term. 
+Assistant professor of biostatistics at Brown University. My research is focused on developing nonparametric Bayesian methods with an emphasis on causal inference problems. I am also on the Stan Project's Governing Body for the 2021 term. 
 
 Here you will find repos containing software supporting published/working papers, R packages, and tutorials. See my web site for more info on current research.
 
