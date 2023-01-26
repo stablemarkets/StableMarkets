@@ -1,4 +1,4 @@
-Assistant professor of biostatistics at Brown University. My research is focused on developing nonparametric Bayesian methods for causal inference. See resarch site for details www.stablemarkets.netlify.app
+Assistant professor of biostatistics at Brown University. My research is focused on developing nonparametric Bayesian methods for causal inference. See resarch site for details [www.stablemarkets.netlify.app](https://stablemarkets.netlify.app/)
 
 Here you will find repos containing software supporting published/working papers, R packages, and tutorials.
 
