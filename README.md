@@ -1,6 +1,6 @@
-Assistant professor of biostatistics at Brown University. My research is focused on developing nonparametric Bayesian methods with an emphasis on causal inference problems. I am also on the Stan Project's Governing Body for the 2021 term. 
+Assistant professor of biostatistics at Brown University. My research is focused on developing nonparametric Bayesian methods for causal inference. See resarch site for details www.stablemarkets.netlify.app
 
-Here you will find repos containing software supporting published/working papers, R packages, and tutorials. See my web site for more info on current research.
+Here you will find repos containing software supporting published/working papers, R packages, and tutorials.
 
 <!--
 **stablemarkets/stablemarkets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
